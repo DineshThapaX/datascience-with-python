@@ -1,16 +1,11 @@
-# This is a sample Python script.
+print("\n")
+print("Welcome to my project - Data Science with Python. \n")
+print("Learning is very fun! So, if you want to go through this learning process step by step. I will help you. \n")
+print("Learning Roadmap for Data Science with Python: \n")
 
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+print("Let's get started... Are you interested? \n")
+user_input = input("Press Enter to Continue...")
+print("\n")
 
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+print("1. Start with Data Cleaning (Refer data_cleaning.py) \n")
+print("2. Check Data Operations  (Refer data_operations.py) \n")
